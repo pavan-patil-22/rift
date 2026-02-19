@@ -3460,7 +3460,7 @@ const PharmaGuard = () => {
 
 
     try {
-      const response = await fetch("https://pharmaguard-gn0n.onrender.com", {
+      const response = await fetch("https://pharmaguard-gn0n.onrender.com/analyze", {
         method: "POST",
         body: formData,
       });
