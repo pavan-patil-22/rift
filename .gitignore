@@ -1,0 +1,10 @@
+# Environment files
+.env
+client/.env
+server/.env
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
