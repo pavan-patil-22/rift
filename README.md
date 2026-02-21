@@ -18,58 +18,98 @@ PharmaGuard helps clinicians make safer prescribing decisions by analyzing genet
 
 The platform:
 -> Parses real VCF genomic files
+
 -> Detects variants in key pharmacogenes
+
 -> Predicts personalized drug risks
+
 -> Generates explainable AI clinical recommendations
+
 -> Outputs structured CPIC-aligned JSON results
+
 This system aims to reduce adverse drug reactions through precision medicine.
 
 *Core Components*
+
 Frontend UI
+
 -> File upload interface
+
 -> Pharmacogenomic dashboard
+
 -> Explainable AI chatbot
 
 Backend Services
+
 -> VCF parsing pipeline
+
 -> Pharmacogene variant detection
+
 -> Risk scoring engine
 
 *Tech Stack*
 Frontend
+
 -> React.js
+
 -> JavaScript / JSX
+
 -> CSS-in-JS Styling
+
 -> Responsive Mobile UI
 
 Backend
+
 -> Node.js API
+
 -> Express.js
+
 -> JSON Schema Validation
 
+
 Tool
+
 -> Postman
 
 *Deployment*
+
 -> Vercel (Frontend)
+
 -> Render (Backend)
 
+
 *⚙️ Installation Instructions*
+
 1️⃣ Clone Repository
+
 -> git clone https://github.com/pavan-patil-22/rift
+
 -> cd pharmaguard
 
+
+
+
 2️⃣ Install Frontend
+
 -> cd client
+
 -> npm install
+
 ->  npm start
 
+
 3️⃣ Install Backend
+
 -> cd server
+
 -> npm install
+
 -> npm start
 
+
 (In the root folder, you can use the provided VCF files for testing or use any VCF patient data file you have.)
+
+
 **Project developed by** Pavan Patil, Prasad Patil, Darshan Nandavi, and Shekhar Chandargi.
 
 
