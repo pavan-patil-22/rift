@@ -110,7 +110,12 @@ Tool
 (In the root folder, you can use the provided VCF files for testing or use any VCF patient data file you have.)
 
 
-**Project developed by** Pavan Patil, Prasad Patil, Darshan Nandavi, and Shekhar Chandargi.
+**Project developed by** 
+
+🧑‍💻 Pavan Patil,
+🧑‍💻 Prasad Patil,
+🧑‍💻 Darshan Nandavi, 
+🧑‍💻 Shekhar Chandargi.
 
 
 
